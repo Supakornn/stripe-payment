@@ -44,7 +44,7 @@
 - Clone repo
 
 ```
-git clone https://github.com/H3X-T/stripe-payment/
+git clone https://github.com/H3XxT/stripe-payment/
 ```
 
 - Install package
