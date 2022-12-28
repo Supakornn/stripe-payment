@@ -32,7 +32,7 @@
     "http-status-codes": "^2.2.0",
     "joi": "^17.6.0",
     "jsonwebtoken": "^9.0.0",
-    "mongoose": "^6.2.7",
+    "mongoose": "^6.4.6",
     "rate-limiter": "^0.2.0",
     "stripe": "^8.210.0",
     "swagger-ui-express": "^4.3.0",
